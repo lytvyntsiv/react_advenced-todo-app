@@ -49,8 +49,11 @@ function todoReducer(todos: ITodo[], action: ActionType) {
       return todos;
   }
 }
+type Props = {
+  children: any
+}
 
-export const TodoProvider: React.FC = ({ children }) => {
+export const TodoProvider: React.FC<Props> = ({ children }) => {
   const [todosFromStorage, setTodosFromStorage] = useLocalStorage<ITodo[]>([], 'todos');
   const [todos, dispatchTodos] = useReducer(todoReducer, todosFromStorage);
 
