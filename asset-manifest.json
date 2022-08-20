@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react_advenced-todo-app/static/css/main.b83dc256.css",
+    "main.js": "/react_advenced-todo-app/static/js/main.4196a7d5.js",
+    "static/media/todo-list-icon.svg": "/react_advenced-todo-app/static/media/todo-list-icon.a38eb1c824c6b52aba5c.svg",
+    "static/media/delete-icon.svg": "/react_advenced-todo-app/static/media/delete-icon.b256446648d57cbd032a6093d21180ee.svg",
+    "static/media/done-icon.svg": "/react_advenced-todo-app/static/media/done-icon.98376cc9a5b1172637f6.svg",
+    "static/media/done-icon--hover.svg": "/react_advenced-todo-app/static/media/done-icon--hover.446cf550be6791e7b02c.svg",
+    "index.html": "/react_advenced-todo-app/index.html",
+    "main.b83dc256.css.map": "/react_advenced-todo-app/static/css/main.b83dc256.css.map",
+    "main.4196a7d5.js.map": "/react_advenced-todo-app/static/js/main.4196a7d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b83dc256.css",
+    "static/js/main.4196a7d5.js"
+  ]
+}
